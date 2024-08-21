@@ -1,3 +1,8 @@
+
+## Uygulama Videosu
+
+[Prodoos Fit Uygulama Videosu](https://youtu.be/fCCmF7y-ICo?feature=shared)
+
 ![iconproodosfit](https://github.com/user-attachments/assets/43bd6351-785c-4a73-9c1f-17442e7bf9b5)
 
 
@@ -336,8 +341,5 @@ Uygulama aynı zamanda çok dilli destek sunarak, farklı dil kökenlerinden gel
           - Bildirimleri ayarlamaya çalıştık 
 
 
-## Uygulama Videosu
-
-[Prodoos Fit Uygulama Videosu](https://youtu.be/fCCmF7y-ICo?feature=shared)
 
 
