@@ -1,11 +1,13 @@
+# Ürün İsmi
+`Proodos Fit `
 
 <img src="https://github.com/user-attachments/assets/43bd6351-785c-4a73-9c1f-17442e7bf9b5" width="350" />
 
+# Ürün Tanımı
+Prodoos Fit, kullanıcıların belirli vücut bölgeleri için egzersiz önerileri almasını sağlayan bir  uygulamadır. Uygulama ayrıca, kullanıcıların vücut kitle indeksini hesaplayarak kişisel plan oluşturur ve yapay zeka tabanlı bir diyetisyen aracılığıyla kişiselleştirilmiş diyet önerileri almalarına olanak tanır. Amacımız, kullanıcıların sağlık ve fitness hedeflerine ulaşmalarına yardımcı olacak kapsamlı bir araç sunmaktır.
+
 ## Uygulama Tanıtım Videosu
 [Prodoos Fit - Uygulama Tanıtım Videosunu İzleyin](https://youtu.be/fCCmF7y-ICo?feature=shared)
-
-# Ürün İsmi
-`Proodos Fit `
 
 # Ekip ve Ürün Hakkında Bilgi
 ## Takım Üyeleri
@@ -74,8 +76,6 @@ In order to run this project, you have to follow the steps below:
 “Proodos”kelimesi Antik Yunan’da “ilerleme” veya “gelişme” anlamına gelirdi. 
 Günümüzde modern çağın gereksinimlerine uygun, "yenilikçi gelişim" anlamını taşır.
 
-# Ürün Tanımı
-Prodoos Fit, kullanıcıların belirli vücut bölgeleri için egzersiz önerileri almasını sağlayan bir  uygulamadır. Uygulama ayrıca, kullanıcıların vücut kitle indeksini hesaplayarak kişisel plan oluşturur ve yapay zeka tabanlı bir diyetisyen aracılığıyla kişiselleştirilmiş diyet önerileri almalarına olanak tanır. Amacımız, kullanıcıların sağlık ve fitness hedeflerine ulaşmalarına yardımcı olacak kapsamlı bir araç sunmaktır.
 
   <details>
     <summary><h2>Ürün Özellikleri</h2></summary>
