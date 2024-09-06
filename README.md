@@ -1,12 +1,10 @@
 
-## Uygulama Videosu
+<img src="https://github.com/user-attachments/assets/43bd6351-785c-4a73-9c1f-17442e7bf9b5" width="350" />
 
-[Prodoos Fit Uygulama Videosu](https://youtu.be/fCCmF7y-ICo?feature=shared)
+## Uygulama Tanıtım Videosu
+[Prodoos Fit - Uygulama Tanıtım Videosunu İzleyin](https://youtu.be/fCCmF7y-ICo?feature=shared)
 
-![iconproodosfit](https://github.com/user-attachments/assets/43bd6351-785c-4a73-9c1f-17442e7bf9b5)
-
-
-# Takım ve Ürün İsmi
+# Ürün İsmi
 `Proodos Fit `
 
 # Ekip ve Ürün Hakkında Bilgi
@@ -21,10 +19,56 @@
 | <p align="center"><img src="https://github.com/user-attachments/assets/22e1ba26-4a7d-49d2-9a5c-ce6af9f17404" alt="avatar_266033" width="50" height="50"/></p>  | Kurtuluş Fidel Akyürek | Developer  | <a href="https://www.linkedin.com/in/kurtuluş-fidel-akyürek-b5171a2a4"><img src="https://github.com/user-attachments/assets/0ff4b2bd-f375-45f1-8b67-a43d752c7950" width="16"/></a> <a href="https://github.com/kfa-max"><img src="https://github.com/user-attachments/assets/fbfefb3f-19df-4304-a2b6-74dda1d82437" width="16"/></a>                |
 | <p align="center"><img src="https://github.com/user-attachments/assets/2565d5db-9c41-4f4c-8de6-2673ca092745" alt="image" width="50" height="50"/></p> | Prodoost Fit        | Startup        |                 |
 
+## Plugins
 
+The Flutter plugins used in this project are as follows:
 
-# Slogan
-Antik Çağların Gücü Yapay Zeka İle Bütünleşti
+- **[cupertino_icons](https://pub.dev/packages/cupertino_icons)**
+- **[http](https://pub.dev/packages/http)**
+- **[shared_preferences](https://pub.dev/packages/shared_preferences)**
+- **[google_fonts](https://pub.dev/packages/google_fonts)**
+- **[carousel_slider](https://pub.dev/packages/carousel_slider)**
+- **[provider](https://pub.dev/packages/provider)**
+- **[font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)**
+- **[flutter_native_splash](https://pub.dev/packages/flutter_native_splash)**
+- **[firebase_core](https://pub.dev/packages/firebase_core)**
+- **[firebase_auth](https://pub.dev/packages/firebase_auth)**
+- **[google_sign_in](https://pub.dev/packages/google_sign_in)**
+- **[google_generative_ai](https://pub.dev/packages/google_generative_ai)**
+
+## Usage
+
+In order to run this project, you have to follow the steps below:
+
+1. Clone the project:
+
+   ```bash
+   git clone https://github.com/havva-nur-ezginci/ProodosFit-HealthAssistant.git
+   ```
+   
+   ```bash
+   cd bootcamp_app_18
+   ```
+
+2. Complete Firebase project setup for both **Android** & **iOS** platforms by going to the [Firebase console](https://console.firebase.google.com/).
+
+3. For Android, replace your google-services.json file with an existing file. 
+
+   ```bash
+   android -> app -> google-services.json
+   ```
+
+4. Get Flutter packages:
+
+   ```bash
+   flutter pub get
+   ```
+
+5. Run the app:
+
+   ```bash
+   flutter run
+   ```
 
 # Ürün İsmi Hakkında:
 “Proodos”kelimesi Antik Yunan’da “ilerleme” veya “gelişme” anlamına gelirdi. 
@@ -328,17 +372,11 @@ Uygulama aynı zamanda çok dilli destek sunarak, farklı dil kökenlerinden gel
         - Yarışmanın başında belirlenen ve önceki sprintlerde bahsedilen tüm özellikleri başarıyla ekledik ve projeyi tamamladık.
         - Takım olarak sprint süresince etkili bir iş birliği gerçekleştirdik ve sürekli gelişim gösterdik.
       
-          # Kullanılan Teknolojiler
-
-          ![Ekran_goruntusu_2024-08-01_221232](https://github.com/user-attachments/assets/7db058c7-b408-488f-905e-c1acc7476928)
 
 
-          ![2](https://github.com/user-attachments/assets/3d737086-9318-4f1a-bed0-627442a98d74)
-
-
-            # Next Step
-          - Egzersizlerin ve diyetleri favorileme özelliği kazandırmak istedik
-          - Bildirimleri ayarlamaya çalıştık 
+  ### Next Step
+  - Egzersizlerin ve diyetleri favorileme özelliği kazandırmak istedik
+  - Bildirimleri ayarlamaya çalıştık 
 
 
 
