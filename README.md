@@ -7,7 +7,60 @@
 ## Uygulama Tanıtım Videosu
 [Prodoos Fit - Uygulama Tanıtım Videosunu İzleyin](https://youtu.be/fCCmF7y-ICo?feature=shared)
 
-# Ekip ve Ürün Hakkında Bilgi
+## Ekip ve Ürün Hakkında Bilgi
+### Ürün İsmi Hakkında:
+“Proodos”kelimesi Antik Yunan’da “ilerleme” veya “gelişme” anlamına gelirdi. 
+Günümüzde modern çağın gereksinimlerine uygun, "yenilikçi gelişim" anlamını taşır.
+
+
+  <details>
+    <summary><h2>Ürün Özellikleri</h2></summary>
+    
+### Egzersiz Önerileri
+Prodoos Fit, kullanıcıların belirli vücut bölgeleri için egzersiz önerileri almasını sağlar. Kullanıcılar, ihtiyaçlarına göre en uygun egzersizleri bulabilir ve bu egzersizleri doğru bir şekilde yapmayı öğrenebilirler.
+
+### Vücut Kitle İndeksi Hesaplama
+Prodoos Fit, kullanıcıların vücut kitle indeksini (BMI) hesaplamalarına olanak tanır. Bu özellik, kullanıcıların sağlık durumlarını değerlendirmelerine ve uygun fitness hedefleri belirlemelerine yardımcı olur.
+
+### Yapay Zeka Tabanlı Diyetisyen
+Prodoos Fit, yapay zeka tabanlı bir diyetisyen hizmeti sunar. Kullanıcılar, kişisel sağlık bilgilerine ve hedeflerine göre özelleştirilmiş diyet önerileri alabilirler.
+
+### Kullanıcı Desteği
+Prodoos Fit, kullanıcılarına müşteri destek hizmetleri sunar. Kullanıcılar, platformla ilgili herhangi bir sorun veya sorularında müşteri hizmetleri ile iletişime geçebilir ve yardım alabilirler.
+
+### Kategorilendirme ve Arama
+Prodoos Fit, kullanıcıların egzersizleri ve diyet önerilerini kategorize etmelerine ve aramalarına olanak tanır. Kullanıcılar, istedikleri kategorilere veya belirli özelliklere göre filtreleme yaparak aradıkları egzersizleri ve diyetleri kolayca bulabilirler.
+
+### Favoriler
+Favoriler özelliği, kullanıcıların ilgilerini çeken egzersizleri ve diyetleri kaydetmelerine ve düzenlemelerine olanak tanır. Bu kişisel katalog, kullanıcıların hızlı karar vermelerine yardımcı olur ve istedikleri zaman favori öğeleri kiralamalarını sağlar.
+
+### Kalori İhtiyacı Hesaplama
+Prodoos Fit, kullanıcıların günlük kalori ihtiyaçlarını hesaplamalarına imkan tanır. Kullanıcıların yaş, boy ve kilo bilgilerini kullanarak, günlük enerji tüketimlerini ve metabolizma hızlarını belirler. Bu özellik, kullanıcıların beslenme alışkanlıklarını düzenlemelerine ve hedeflerine ulaşmalarına yardımcı olur.
+
+### Profil Bilgilerini Kaydetme ve Erişim
+Uygulamamız, kullanıcıların profil bilgilerini kaydetmelerine ve bu bilgileri AI Diyetisyen, İstatistik ve Profil sayfalarında kullanmalarına olanak tanıyarak sorunsuz bir deneyim sunar.
+
+### Konuşma Geçmişi Takibi ve Tutarlı Yanıtlar
+Uygulamamız, kullanıcıların konuşma geçmişini takip ederek yapay zekanın (AI) daha tutarlı yanıtlar vermesini desteklemektedir. Bu özellik, AI'nın bir konuşmada önceki mesajları hatırlamasını sağlayarak daha ilgili ve tutarlı yanıtlar sunmasını mümkün kılar.
+
+### Kullanılan DB Verisi Bilgisi
+Bu uygulama, egzersiz verilerini ve bilgilerini sağlamak için GitHub'da bulunan Free Exercise Database adlı açık kaynaklı veri kümesini kullanmaktadır. Bu veri kümesi, çeşitli egzersizlerin açıklamalarını, adımlarını ve görsellerini içermektedir. Veri kümesine şu adresten ulaşılabilir: https://github.com/havva-nur-ezginci/free-exercise-db_tr.
+
+</details>
+  <details>
+    <summary><h2>Hedef Kitle</h2></summary>
+    Prodoos Fit uygulamasının hedef kitlesi genellikle sağlıklı yaşam ve fitness konularına ilgi duyan bireylerdir. Uygulama, özellikle egzersiz yapmayı seven ve belirli vücut bölgeleri için özelleştirilmiş egzersiz önerileri arayan kullanıcıları hedefler.
+
+Kilo verme veya kas yapma hedefleri olan kullanıcılar, Prodoos Fit'in vücut kitle indeksi (BMI) hesaplama özelliği sayesinde sağlık durumlarını değerlendirebilir ve fitness hedeflerini belirleyebilirler. Ayrıca, yapay zeka tabanlı diyetisyen hizmeti sunan uygulama, kişisel sağlık bilgilerine göre özelleştirilmiş diyet önerileri sunarak kullanıcıların beslenme alışkanlıklarını iyileştirmelerine yardımcı olur.
+
+Prodoos Fit, kullanıcıların egzersiz programlarını yönetmelerine ve diyetisyen randevularını kolayca ayarlamalarına olanak tanır. Bu özellik, programları düzenli bir şekilde takip etmek isteyen ve sağlıklı yaşam tarzını sürdürmeye çalışan bireyler için önemlidir.
+
+Uygulama aynı zamanda çok dilli destek sunarak, farklı dil kökenlerinden gelen kullanıcıların platformu rahatlıkla kullanmalarını sağlar. Bu özellik, Prodoos Fit'in küresel bir topluluk oluşturma hedefine katkı sağlar.
+
+
+</details>
+
+
 ## Takım Üyeleri
 
 | Fotoğraf            | İsim                | Ünvan          | Sosyal Medya    |
@@ -70,61 +123,9 @@ In order to run this project, you have to follow the steps below:
    flutter run
    ```
 
-# Ürün İsmi Hakkında:
-“Proodos”kelimesi Antik Yunan’da “ilerleme” veya “gelişme” anlamına gelirdi. 
-Günümüzde modern çağın gereksinimlerine uygun, "yenilikçi gelişim" anlamını taşır.
-
-
-  <details>
-    <summary><h2>Ürün Özellikleri</h2></summary>
-    
-### Egzersiz Önerileri
-Prodoos Fit, kullanıcıların belirli vücut bölgeleri için egzersiz önerileri almasını sağlar. Kullanıcılar, ihtiyaçlarına göre en uygun egzersizleri bulabilir ve bu egzersizleri doğru bir şekilde yapmayı öğrenebilirler.
-
-### Vücut Kitle İndeksi Hesaplama
-Prodoos Fit, kullanıcıların vücut kitle indeksini (BMI) hesaplamalarına olanak tanır. Bu özellik, kullanıcıların sağlık durumlarını değerlendirmelerine ve uygun fitness hedefleri belirlemelerine yardımcı olur.
-
-### Yapay Zeka Tabanlı Diyetisyen
-Prodoos Fit, yapay zeka tabanlı bir diyetisyen hizmeti sunar. Kullanıcılar, kişisel sağlık bilgilerine ve hedeflerine göre özelleştirilmiş diyet önerileri alabilirler.
-
-### Kullanıcı Desteği
-Prodoos Fit, kullanıcılarına müşteri destek hizmetleri sunar. Kullanıcılar, platformla ilgili herhangi bir sorun veya sorularında müşteri hizmetleri ile iletişime geçebilir ve yardım alabilirler.
-
-### Kategorilendirme ve Arama
-Prodoos Fit, kullanıcıların egzersizleri ve diyet önerilerini kategorize etmelerine ve aramalarına olanak tanır. Kullanıcılar, istedikleri kategorilere veya belirli özelliklere göre filtreleme yaparak aradıkları egzersizleri ve diyetleri kolayca bulabilirler.
-
-### Favoriler
-Favoriler özelliği, kullanıcıların ilgilerini çeken egzersizleri ve diyetleri kaydetmelerine ve düzenlemelerine olanak tanır. Bu kişisel katalog, kullanıcıların hızlı karar vermelerine yardımcı olur ve istedikleri zaman favori öğeleri kiralamalarını sağlar.
-
-### Kalori İhtiyacı Hesaplama
-Prodoos Fit, kullanıcıların günlük kalori ihtiyaçlarını hesaplamalarına imkan tanır. Kullanıcıların yaş, boy ve kilo bilgilerini kullanarak, günlük enerji tüketimlerini ve metabolizma hızlarını belirler. Bu özellik, kullanıcıların beslenme alışkanlıklarını düzenlemelerine ve hedeflerine ulaşmalarına yardımcı olur.
-
-### Profil Bilgilerini Kaydetme ve Erişim
-Uygulamamız, kullanıcıların profil bilgilerini kaydetmelerine ve bu bilgileri AI Diyetisyen, İstatistik ve Profil sayfalarında kullanmalarına olanak tanıyarak sorunsuz bir deneyim sunar.
-
-### Konuşma Geçmişi Takibi ve Tutarlı Yanıtlar
-Uygulamamız, kullanıcıların konuşma geçmişini takip ederek yapay zekanın (AI) daha tutarlı yanıtlar vermesini desteklemektedir. Bu özellik, AI'nın bir konuşmada önceki mesajları hatırlamasını sağlayarak daha ilgili ve tutarlı yanıtlar sunmasını mümkün kılar.
-
-### Kullanılan DB Verisi Bilgisi
-Bu uygulama, egzersiz verilerini ve bilgilerini sağlamak için GitHub'da bulunan Free Exercise Database adlı açık kaynaklı veri kümesini kullanmaktadır. Bu veri kümesi, çeşitli egzersizlerin açıklamalarını, adımlarını ve görsellerini içermektedir. Veri kümesine şu adresten ulaşılabilir: https://github.com/havva-nur-ezginci/free-exercise-db_tr.
 
 
 
-</details>
-
-  <details>
-    <summary><h2>Hedef Kitle</h2></summary>
-    Prodoos Fit uygulamasının hedef kitlesi genellikle sağlıklı yaşam ve fitness konularına ilgi duyan bireylerdir. Uygulama, özellikle egzersiz yapmayı seven ve belirli vücut bölgeleri için özelleştirilmiş egzersiz önerileri arayan kullanıcıları hedefler.
-
-Kilo verme veya kas yapma hedefleri olan kullanıcılar, Prodoos Fit'in vücut kitle indeksi (BMI) hesaplama özelliği sayesinde sağlık durumlarını değerlendirebilir ve fitness hedeflerini belirleyebilirler. Ayrıca, yapay zeka tabanlı diyetisyen hizmeti sunan uygulama, kişisel sağlık bilgilerine göre özelleştirilmiş diyet önerileri sunarak kullanıcıların beslenme alışkanlıklarını iyileştirmelerine yardımcı olur.
-
-Prodoos Fit, kullanıcıların egzersiz programlarını yönetmelerine ve diyetisyen randevularını kolayca ayarlamalarına olanak tanır. Bu özellik, programları düzenli bir şekilde takip etmek isteyen ve sağlıklı yaşam tarzını sürdürmeye çalışan bireyler için önemlidir.
-
-Uygulama aynı zamanda çok dilli destek sunarak, farklı dil kökenlerinden gelen kullanıcıların platformu rahatlıkla kullanmalarını sağlar. Bu özellik, Prodoos Fit'in küresel bir topluluk oluşturma hedefine katkı sağlar.
-
-
-
-</details>
 
 
 <details>
