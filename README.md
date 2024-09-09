@@ -1,4 +1,4 @@
-# Ürün İsmi ve Tanımı
+# ProodosFit: AI-Based Diet and Health Assistant Application
 `Proodos Fit `, kullanıcıların belirli vücut bölgeleri için egzersiz önerileri almasını sağlayan bir  uygulamadır. Uygulama ayrıca, kullanıcıların vücut kitle indeksini hesaplayarak kişisel plan oluşturur ve yapay zeka tabanlı bir diyetisyen aracılığıyla kişiselleştirilmiş diyet önerileri almalarına olanak tanır. Amacımız, kullanıcıların sağlık ve fitness hedeflerine ulaşmalarına yardımcı olacak kapsamlı bir araç sunmaktır.
 
 <img src="https://github.com/user-attachments/assets/43bd6351-785c-4a73-9c1f-17442e7bf9b5" width="350" />
